@@ -56,11 +56,11 @@ export function HeroSection() {
         </SplitFlapAudioProvider>
 
         <h2 className="font-[var(--font-bebas)] text-muted-foreground/60 text-[clamp(1rem,3vw,2rem)] mt-4 tracking-wide">
-          Live Cross-Chain Trading Terminal
+          SMART TRADING TERMINAL
         </h2>
 
         <p className="mt-12 max-w-md font-mono text-sm text-muted-foreground leading-relaxed">
-          Stream live market depth from Stellar DEX and external order books. Trade tokenized assets across chains with atomic execution and AI-driven strategies.
+          Stream live market depth from Stellar DEX and external order books. Trade tokenized assets and markets on stellar with atomic execution and AI-driven strategies.
         </p>
 
         <div className="mt-16 flex items-center gap-8">
